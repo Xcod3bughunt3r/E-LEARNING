@@ -1,0 +1,38 @@
+# The ThreatHunting Project
+#### ``An informational repo about hunting for adversaries in your IT environment. Be sure to visit`` [ThreatHunting.net](http://threathunting.net) `for more info about this repo.`
+
+<br>
+
+- [analyze_producer_consumer_ratio](hunts/analyze_producer_consumer_ratio.md)
+- [antivirus_logs](hunts/antivirus_logs.md)
+- [beacon_detection_via_intra_request_time_deltas](hunts/beacon_detection_via_intra_request_time_deltas.md)
+- [checking-how-outsiders-see-you](hunts/checking-how-outsiders-see-you.md)
+- [comparing_host_images_memory_dumps_to_known_good_baselines](hunts/comparing_host_images_memory_dumps_to_known_good_baselines.md)
+- [critical_process_impersonation](hunts/critical_process_impersonation.md)
+- [dynamic_dns_c2](hunts/dynamic_dns_c2.md)
+- [emet_log_mining](hunts/emet_log_mining.md)
+- [golden_ticket](hunts/golden_ticket.md)
+- [http_uri_analysis](hunts/http_uri_analysis.md)
+- [http_user_agent_analysis](hunts/http_user_agent_analysis.md)
+- [internet_facing_http_request_analysis](hunts/internet_facing_http_request_analysis.md)
+- [lateral-movement-via-explicit-credentials](hunts/lateral-movement-via-explicit-credentials.md)
+- [lateral-movement-windows-authentication-logs](hunts/lateral-movement-windows-authentication-logs.md)
+- [lateral_movement_detection_via_process_monitoring](hunts/lateral_movement_detection_via_process_monitoring.md)
+- [net_session_c2](hunts/net_session_c2.md)
+- [ntfs_extended_attribute_analysis](hunts/ntfs_extended_attribute_analysis.md)
+- [privileged-group-tracking](hunts/privileged-group-tracking.md)
+- [psexec-windows-events](hunts/psexec-windows-events.md)
+- [ram_dumping](hunts/ram_dumping.md)
+- [rdp_external_access](hunts/rdp_external_access.md)
+- [renamed-tools](hunts/renamed-tools.md)
+- [rogue_listeners](hunts/rogue_listeners.md)
+- [shimcache_amcache](hunts/shimcache_amcache.md)
+- [suspicious_command_shells](hunts/suspicious_command_shells.md)
+- [suspicious_process_creation_via_windows_event_logs](hunts/suspicious_process_creation_via_windows_event_logs.md)
+- [webshell_behavior](hunts/webshell_behavior.md)
+- [webshells](hunts/webshells.md)
+- [windows_autoruns_analysis](hunts/windows_autoruns_analysis.md)
+- [windows_driver_analysis](hunts/windows_driver_analysis.md)
+- [windows_prefetch_cache_analysis](hunts/windows_prefetch_cache_analysis.md)
+- [windows_service_analysis](hunts/windows_service_analysis.md)
+
